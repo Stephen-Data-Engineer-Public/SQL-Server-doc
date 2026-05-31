@@ -5,3 +5,10 @@ Object     : Stephen_PC.DWH_PRESENTATION.dbo.VW_TEST
 ChangedBy  : Stephen_PC\resga
 File       : VW_TEST_20260531_141136.sql
 =====================================
+=====================================
+Timestamp  : 2026-05-31 14:13:01
+EventType  : ALTER_VIEW
+Object     : Stephen_PC.DWH_PRESENTATION.dbo.VW_TEST
+ChangedBy  : Stephen_PC\resga
+File       : VW_TEST_20260531_141301.sql
+=====================================
