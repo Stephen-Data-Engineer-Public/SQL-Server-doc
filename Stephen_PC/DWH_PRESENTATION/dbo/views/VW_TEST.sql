@@ -1,8 +1,8 @@
-﻿CREATE VIEW VW_TEST
+﻿ALTER VIEW VW_TEST
 AS
 
 
-SELECT TOP (1000) [ID]
+SELECT  [ID]
       ,[EventType]
       ,[ObjectName]
       ,[ObjectType]
