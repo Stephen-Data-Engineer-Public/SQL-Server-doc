@@ -1,0 +1,7 @@
+﻿=====================================
+Timestamp  : 2026-05-31 14:42:34
+EventType  : CREATE_TABLE
+Object     : Stephen_PC.DWH_PRESENTATION.dbo.DDL_ProcessLog
+ChangedBy  : Stephen_PC\resga
+File       : DDL_ProcessLog_20260531_144234.sql
+=====================================
