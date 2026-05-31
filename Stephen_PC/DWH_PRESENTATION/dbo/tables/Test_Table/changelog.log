@@ -1,0 +1,7 @@
+﻿=====================================
+Timestamp  : 2026-05-31 18:31:12
+EventType  : CREATE_TABLE
+Object     : Stephen_PC.DWH_PRESENTATION.dbo.Test_Table
+ChangedBy  : Stephen_PC\resga
+File       : Test_Table_20260531_183112.sql
+=====================================
